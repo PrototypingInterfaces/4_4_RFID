@@ -1183,7 +1183,7 @@
    </BOUNDS>
    <BOUNDS type="Node" left="6570" top="4830" width="0" height="0">
    </BOUNDS>
-   <PIN pinname="Input Enum" slicecount="1" values="COM20">
+   <PIN pinname="Input Enum" slicecount="1" values="COM11">
    </PIN>
    <PIN pinname="Descriptive Name" slicecount="1" values="|Port Name|">
    </PIN>
@@ -1208,6 +1208,8 @@
    <PIN pinname="Behavior" slicecount="1" values="Bang">
    </PIN>
    <PIN pinname="Descriptive Name" slicecount="1" values="|Update Port List|">
+   </PIN>
+   <PIN pinname="X Input Value" slicecount="1" values="0">
    </PIN>
    </NODE>
    <LINK srcnodeid="100043" srcpinname="Y Output Value" dstnodeid="100040" dstpinname="Update Port List">
