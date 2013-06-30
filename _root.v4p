@@ -679,7 +679,7 @@
    </PIN>
    <PIN pinname="RFID Slice" visible="1">
    </PIN>
-   <PIN pinname="Enabled" slicecount="1" values="1">
+   <PIN pinname="Enabled" slicecount="1" values="0">
    </PIN>
    </NODE>
    <LINK srcnodeid="524" srcpinname="Token Triggert" dstnodeid="471" dstpinname="Y Input Value">
